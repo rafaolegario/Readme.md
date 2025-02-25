@@ -15,9 +15,7 @@ Sou desenvolvedor **fullstack** com experiência em **front-end** e **back-end**
 
 ### [ SKILLS ]
 
-- **HTML / CSS**
-- **JavaScript**
-- **TypeScript**
+- **HTML / CSS**  **JavaScript**  **TypeScript**
 - **Node.js**
 - **Banco de Dados**
 - **Git e GitHub**
