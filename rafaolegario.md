@@ -26,30 +26,19 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Techs |
-|--------|-------------|-------|
-| [Q&A API](https://github.com/rafaelolegario/qna-api) | A full-featured Question & Answer REST API using NestJS, DDD, file uploads, and JWT | NestJS, TypeScript, PostgreSQL, Cloud Storage |
-| [To-do App (WIP)](https://github.com/rafaelolegario/todo-app) | A minimal task management app with API + frontend (React) | React, Node.js, PostgreSQL |
-| More coming soon... | 🚧 Improving and deploying one project at a time. | |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelolegario&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelolegario&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaolegario&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaolegario&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📫 Let's Connect
 
-- LinkedIn: [linkedin.com/in/rafaelolegario](https://linkedin.com/in/rafaelolegario)
-- Portfolio (soon): Coming soon with live demos and case studies
-- Email: olegariorafael@gmail.com
+- LinkedIn: [linkedin.com/in/rafaelolegario](https://www.linkedin.com/in/rafael-olegario-/)
+- Email: rafaelolegariobisoffi@gmail.com
 
 ---
 
